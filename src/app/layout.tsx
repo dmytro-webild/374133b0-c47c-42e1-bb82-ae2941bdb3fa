@@ -10,8 +10,8 @@ import { Mulish } from "next/font/google";
 
 
 export const metadata: Metadata = {
-  title: 'Adscookies.com | Global Affiliate Marketing & Shopify Tools',
-  description: 'Adscookies.com - Leading affiliate marketing platform for Shopify. Generate high traffic, global conversions, SEO friendly tools, banners, and smart integration.',
+  title: "Adscookies.com | Global Affiliate Marketing & Shopify Tools",
+  description: "Adscookies.com - Leading affiliate marketing platform for Shopify. Generate high traffic, global conversions, SEO friendly tools, banners, and smart integration.",
 };
 
 const mulish = Mulish({
