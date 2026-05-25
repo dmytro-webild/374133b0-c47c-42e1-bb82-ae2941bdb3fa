@@ -57,7 +57,7 @@ export default function LandingPage() {
         { name: "Anna P.", handle: "@anna_shop", testimonial: "Reliable data and high-quality affiliate insights.", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/portrait-business-executive-using-digital-tablet_1170-1828.jpg" }
       ]}
       buttons={[{ text: "Claim Your Affiliate Deal", href: "#" }]}
-      imageSrc="http://img.b2bpic.net/free-photo/tablet-with-graphics-blue-tones_1134-384.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/tablet-with-graphics-blue-tones_1134-384.jpg?_wi=1"
       imageAlt="Shopify Marketing Dashboard"
       avatars={[
         { src: "http://img.b2bpic.net/free-photo/smiling-man-wearing-white-shirt_23-2152009541.jpg", alt: "Sarah J." },
@@ -85,7 +85,7 @@ export default function LandingPage() {
       description="We provide the most robust suite of SEO-friendly tools for marketers operating on Shopify. Our platform is built for speed, transparency, and global reach."
       subdescription="Our mission is to help 50,000+ marketers scale across iOS, Android, and desktop ecosystems."
       icon={Shield}
-      imageSrc="http://img.b2bpic.net/free-photo/global-air-travel-connectivity_23-2152005459.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/global-air-travel-connectivity_23-2152005459.jpg?_wi=1"
       mediaAnimation="slide-up"
       imageAlt="Global connection map"
     />
@@ -141,8 +141,8 @@ export default function LandingPage() {
       useInvertedBackground={false}
       plans={[
         { id: "basic", title: "Starter", price: "$0", period: "forever", features: ["Basic Tracking", "Email Support", "1 Affiliate Product"], button: { text: "Get Started" }, imageSrc: "http://img.b2bpic.net/free-photo/falling-binary-code_23-2152020924.jpg", imageAlt: "ai data tracking" },
-        { id: "pro", title: "Professional", price: "$49", period: "/mo", features: ["Advanced AI Tracking", "SEO Audit Tools", "Unlimited Products"], button: { text: "Upgrade Now" }, imageSrc: "http://img.b2bpic.net/free-photo/tablet-with-graphics-blue-tones_1134-384.jpg", imageAlt: "ai data tracking" },
-        { id: "enterprise", title: "Enterprise", price: "$199", period: "/mo", features: ["Dedicated Account Manager", "Priority Support", "API Access"], button: { text: "Contact Us" }, imageSrc: "http://img.b2bpic.net/free-photo/global-air-travel-connectivity_23-2152005459.jpg", imageAlt: "ai data tracking" }
+        { id: "pro", title: "Professional", price: "$49", period: "/mo", features: ["Advanced AI Tracking", "SEO Audit Tools", "Unlimited Products"], button: { text: "Upgrade Now" }, imageSrc: "http://img.b2bpic.net/free-photo/tablet-with-graphics-blue-tones_1134-384.jpg?_wi=2", imageAlt: "ai data tracking" },
+        { id: "enterprise", title: "Enterprise", price: "$199", period: "/mo", features: ["Dedicated Account Manager", "Priority Support", "API Access"], button: { text: "Contact Us" }, imageSrc: "http://img.b2bpic.net/free-photo/global-air-travel-connectivity_23-2152005459.jpg?_wi=2", imageAlt: "ai data tracking" }
       ]}
       title="Flexible Pricing Plans"
       description="Choose the perfect plan to grow your marketing business."
