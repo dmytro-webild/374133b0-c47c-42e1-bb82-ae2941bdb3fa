@@ -43,6 +43,7 @@ export default function ProductsPage() {
             gridVariant="four-items-2x2-equal-grid"
             animationType="slide-up"
             textboxLayout="default"
+            useInvertedBackground={false}
             products={[
               { id: "1", name: "Basic Affiliate Plan", price: "Free", imageSrc: "http://img.b2bpic.net/free-photo/tablet-with-graphics-blue-tones_1134-384.jpg" },
               { id: "2", name: "Pro Tracking Engine", price: "$49/mo", imageSrc: "http://img.b2bpic.net/free-photo/tablet-with-graphics-blue-tones_1134-384.jpg" },
