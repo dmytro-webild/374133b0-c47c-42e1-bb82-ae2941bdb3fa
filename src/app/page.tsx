@@ -108,7 +108,7 @@ export default function LandingPage() {
           href: "#",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/tablet-with-graphics-blue-tones_1134-384.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/tablet-with-graphics-blue-tones_1134-384.jpg?_wi=1"
       imageAlt="Shopify Marketing Dashboard"
       avatars={[
         {
@@ -171,7 +171,7 @@ export default function LandingPage() {
       description="We provide the most robust suite of SEO-friendly tools for marketers operating on Shopify. Our platform is built for speed, transparency, and global reach."
       subdescription="Our mission is to help 50,000+ marketers scale across iOS, Android, and desktop ecosystems."
       icon={Shield}
-      imageSrc="http://img.b2bpic.net/free-photo/global-air-travel-connectivity_23-2152005459.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/global-air-travel-connectivity_23-2152005459.jpg?_wi=1"
       mediaAnimation="slide-up"
       imageAlt="Global connection map"
     />
@@ -291,7 +291,7 @@ export default function LandingPage() {
           button: {
             text: "Upgrade Now",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/tablet-with-graphics-blue-tones_1134-384.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/tablet-with-graphics-blue-tones_1134-384.jpg?_wi=2",
           imageAlt: "ai data tracking",
         },
         {
@@ -307,7 +307,7 @@ export default function LandingPage() {
           button: {
             text: "Contact Us",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/global-air-travel-connectivity_23-2152005459.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/global-air-travel-connectivity_23-2152005459.jpg?_wi=2",
           imageAlt: "ai data tracking",
         },
       ]}
