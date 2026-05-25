@@ -37,6 +37,7 @@ export default function LandingPage() {
         { name: "Affiliate Hub", id: "about" },
         { name: "Features", id: "features" },
         { name: "Pricing", id: "pricing" },
+        { name: "Products", id: "/products" },
         { name: "Contact", id: "contact" },
       ]}
       brandName="ADScookies.com"
