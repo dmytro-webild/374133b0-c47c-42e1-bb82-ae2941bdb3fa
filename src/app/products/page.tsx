@@ -45,8 +45,8 @@ export default function ProductsPage() {
             textboxLayout="default"
             useInvertedBackground={false}
             products={[
-              { id: "1", name: "Basic Affiliate Plan", price: "Free", imageSrc: "http://img.b2bpic.net/free-photo/tablet-with-graphics-blue-tones_1134-384.jpg" },
-              { id: "2", name: "Pro Tracking Engine", price: "$49/mo", imageSrc: "http://img.b2bpic.net/free-photo/tablet-with-graphics-blue-tones_1134-384.jpg" },
+              { id: "1", name: "Basic Affiliate Plan", price: "Free", imageSrc: "http://img.b2bpic.net/free-photo/tablet-with-graphics-blue-tones_1134-384.jpg?_wi=1" },
+              { id: "2", name: "Pro Tracking Engine", price: "$49/mo", imageSrc: "http://img.b2bpic.net/free-photo/tablet-with-graphics-blue-tones_1134-384.jpg?_wi=2" },
               { id: "3", name: "Global SEO Tool", price: "$99/mo", imageSrc: "http://img.b2bpic.net/free-photo/serp-search-engine-result-page-concept_107791-17768.jpg" },
               { id: "4", name: "Enterprise Data API", price: "$299/mo", imageSrc: "http://img.b2bpic.net/free-photo/falling-binary-code_23-2152020924.jpg" }
             ]}
